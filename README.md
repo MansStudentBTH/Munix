@@ -1,6 +1,14 @@
 # Munix
 The idea for the project is about being able to play a user’s favourite songs directly from the console. This is for solving the common problem of having a lot of your favourite music unorganised and not easily manageable. With Munix the user is able to create playlists, add songs, play music and more. The main users of the program are music enjoyers and artists. With this media manager, you can easily manage your collection of music. The data was generated from this source: https://openai.com/blog/chatgpt. 
 
+## Running the program
+1. First, create the database with the SQL code from the SQL folder. Start with running the DatabaseINIT.sql then DatabaseInsert.sql and at last the DatabaseProcedures.sql. This has to be done manually in for example MySQL Workbench.
+2. The next step is installing the required packages (preferably in a virtual environment) this is done through the pip install -r requirements.txt.
+3. After downloading all required packages, run the main.py file from the base directory (i.e the directory in which main.py is stored).
+4. Enjoy the worlds greatest and most innovative music player app!
+
+(OBS! As of currently, you cannot play any real music, you can only see what it would look like playing a song)
+
 
 ## Commands
 | Command | Description |
