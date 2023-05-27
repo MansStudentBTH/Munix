@@ -1,0 +1,2 @@
+# Munix
+The idea for the project is about being able to play a user’s favourite songs directly from the console. This is for solving the common problem of having a lot of your favourite music unorganised and not easily manageable. With Munix the user is able to create playlists, add songs, play music and more. The main users of the program are music enjoyers and artists. With this media manager, you can easily manage your collection of music. The data was generated from this source: https://openai.com/blog/chatgpt. 
