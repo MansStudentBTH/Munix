@@ -4,9 +4,9 @@ The idea for the project is about being able to play a user’s favourite songs 
 
 ## Commands
 | Command | Description |
--------------------------
+|---------|-------------|
 | ls | Show directory (users/playlists/songs) |
------------------------------------------------
+
 | cd <directory_name> | ..   - change directory
 | mkuser <username>          - Create a user in the select user screen
 | mkplaylist <playilst_name> - Create a playlist
